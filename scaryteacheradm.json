@@ -1,13 +1,13 @@
 {
   "ads": {
     "id_app": "5",
-    "banner_setting": "ca-app-pub-8541594829243773/3753689478",
-    "inter_setting": "ca-app-pub-8541594829243773/2440607807",
-    "banner_main": "ca-app-pub-8541594829243773/9454213495",
-    "inter_main": "ca-app-pub-8541594829243773/5066771145"
+    "banner_setting": "c",
+    "inter_setting": "c",
+    "banner_main": "c",
+    "inter_main": "c"
   }, 
   "app_exists": {
-    "id": "com.videocall.scaryteacher.call.me",
+    "id": "com.videocall.scaryteacher.call.me.linh",
     "is_exists": true,
     "is_show_more": false
   },
