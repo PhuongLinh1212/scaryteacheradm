@@ -4,7 +4,9 @@
     "banner_setting": "ca-app-pub-4084941899768286/4536545268",
     "inter_setting": "ca-app-pub-4084941899768286/6186444952",
     "banner_main": "ca-app-pub-4084941899768286/3560281618",
-    "inter_main": "ca-app-pub-4084941899768286/4680548327"
+    "inter_main": "ca-app-pub-4084941899768286/4680548327",
+    "onlyAdmod": true,
+    "onlyFB": false
   }, 
   "app_exists": {
     "id": "com.videocall.scaryteacher.call.me.linh",
